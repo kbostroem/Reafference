@@ -1,4 +1,5 @@
 modelInit;
+printf('yes');
 modelLearn;
 modelVal;
 modelMorph;
